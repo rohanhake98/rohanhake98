@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Rohan Hake  
+<h1 align="center">👋 Hi, I'm Rohan Hake</h1>
 
-📊 **Data Analyst | Data Science & AI Enthusiast**  
-🌐 **MERN Stack Developer**  
-🚀 **Final-Year Information Technology Engineering Student**
+<p align="center">
+  📊 <strong>Data Analyst | Data Science & AI Enthusiast</strong><br/>
+  🌐 <strong>MERN Stack Developer</strong><br/>
+  🚀 <strong>Final-Year Information Technology Engineering Student</strong>
+</p>
 
----
 
 ## 🚀 About Me  
 
