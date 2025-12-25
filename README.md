@@ -71,7 +71,7 @@ Currently preparing for **placements and internships**, I aim to work on **real-
 
 - 💼 **LinkedIn:** https://linkedin.com/in/rohan-hake  
 - 📍 **Location:** Pune, India  
-- 📧 **Email:** *(add your email here)*  
+- 📧 **Email:** rohanhake256@gmail.com
 
 ---
 
