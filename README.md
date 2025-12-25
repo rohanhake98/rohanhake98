@@ -6,27 +6,28 @@
   🚀 <strong>Final-Year Information Technology Engineering Student</strong>
 </p>
 
+---
 
 ## 🚀 About Me  
 
-Hey there! 👋  
-I'm a **final-year IT engineering student** focused on **Data Analytics, Data Science, and AI-driven problem solving**, with hands-on experience in **full-stack web development using the MERN stack**.
+Hey There! 👋  
+I'm a **Final-Year IT Engineering Student** Focused on **Data Analytics, Data Science, and AI-Driven Problem Solving**, With Hands-On Experience in **Full-Stack Web Development Using the MERN Stack**.
 
-My primary strength lies in **working with data** — performing **data cleaning, exploratory data analysis, visualization, and machine learning** to generate actionable insights. Alongside this, I build **end-to-end web applications** using MERN, allowing me to deploy **data-powered, scalable systems**.
+My Primary Strength Lies in **Working With Data** — Performing **Data Cleaning, Exploratory Data Analysis, Visualization, and Machine Learning** to Generate Actionable Insights. Alongside This, I Build **End-to-End Web Applications** Using MERN, Allowing Me to Deploy **Data-Powered, Scalable Systems**.
 
-Currently preparing for **placements and internships**, I aim to work on **real-world analytical and full-stack projects**.
+Currently Preparing for **Placements and Internships**, I Aim to Work on **Real-World Analytical and Full-Stack Projects**.
 
 ---
 
 ## 🔥 What I'm Currently Doing  
 
-- 📊 Building **Data Analytics & Data Science projects**
+- 📊 Building **Data Analytics & Data Science Projects**
 - 🤖 Exploring **Machine Learning & Generative AI**
 - 🧹 Performing **Data Cleaning, EDA & Feature Engineering**
-- 📈 Developing **interactive dashboards using Power BI**
-- 🌐 Building **full-stack applications using MERN**
-- ☁️ Learning **backend optimization, APIs & cloud basics**
-- 🎯 Preparing for **placements & technical interviews**
+- 📈 Developing **Interactive Dashboards Using Power BI**
+- 🌐 Building **Full-Stack Applications Using MERN**
+- ☁️ Learning **Backend Optimization, APIs & Cloud Basics**
+- 🎯 Preparing for **Placements & Technical Interviews**
 
 ---
 
@@ -78,9 +79,9 @@ Currently preparing for **placements and internships**, I aim to work on **real-
 
 ## 💬 Dev Quote  
 
-> *"The first principle is that you must not fool yourself — and you are the easiest person to fool."*  
+> *"The First Principle Is That You Must Not Fool Yourself — And You Are the Easiest Person to Fool."*  
 > — **Richard P. Feynman**, *Surely You're Joking, Mr. Feynman!*
 
 ---
 
-⭐ **If my projects help you, feel free to star them!**
+⭐ **If My Projects Help You, Feel Free to Star Them!**
