@@ -1,3 +1,11 @@
+
+
+
+<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/26703789-ad12-465a-8a17-2cfc615a307e" />
+
+
+
+
 <h1 align="center">👋 Hi, I'm Rohan Hake</h1>
 
 <p align="center">
